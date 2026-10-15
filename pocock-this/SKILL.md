@@ -17,7 +17,7 @@ Done when you can name the target and have read everything it reaches.
 
 ## 2. Rewrite
 
-Work sentence by sentence, every lever on every sentence.
+Work sentence by sentence, every lever on every sentence. If no sentence fails a lever, leave the target untouched and say so: a converged document is a valid result.
 
 ### Prune
 
@@ -62,7 +62,8 @@ Write the rewrite over the target in place, or reply with it if the target lives
 | --------- | ----------------------- | ----------------------- |
 | Cut       | <sentence or behaviour> | -                       |
 | Collapsed | <phrase>                | <leading word>          |
+| Sharpened | <vague wording>         | <checkable wording>     |
 | Disclosed | <material>              | <file it moved to>      |
 ```
 
-Done when the target is written and every change appears in the table.
+Done when the target is written, or declared converged, and every change appears in the table.
